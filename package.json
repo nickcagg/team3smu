@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/react": "18.3.1",
+    "@uxpin/expressions": "0.0.3",
+    "react": "18.3.1",
+    "react-bootstrap": "latest",
+    "react-dom": "18.3.1"
+  }
+}
